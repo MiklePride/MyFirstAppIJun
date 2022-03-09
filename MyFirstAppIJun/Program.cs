@@ -4,24 +4,16 @@
     {
         static void Main(string[] args)
         {
-            byte money;
-            sbyte gold;
-            short silver;
-            ushort diamond;
-            int arrow;
+            byte moneyAmount;
+            sbyte goldAmount;
+            short silverAmount;
+            ushort diamonds;
+            int arrowDamage;
             uint pills;
-            long bullet;
+            long bulletSpeed;
             ulong scorePoints;
             decimal damage;
             float hitPoint;
-
-
-
-
         }
-
-
     }
-
-
 }
